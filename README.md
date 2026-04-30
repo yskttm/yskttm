@@ -22,7 +22,9 @@ Engineering Manager at Recruit, working on StudySapuri.
 ## Projects
 
 - [`codeowners-validator`](https://github.com/yskttm/codeowners-validator) — Ruby tools for validating GitHub CODEOWNERS files
+     [![Gem Version](https://badge.fury.io/rb/codeowners-validator.svg)](https://badge.fury.io/rb/codeowners-validator) [![Ruby](https://img.shields.io/badge/ruby-4.0.2-red?logo=ruby)](https://www.ruby-lang.org/)
 - [`gh-activity`](https://github.com/yskttm/gh-activity) — GitHub CLI extension to aggregate Issue/PR activity
+     [![Release](https://img.shields.io/github/v/release/yskttm/gh-activity)](https://github.com/yskttm/gh-activity/releases/latest) [![Go Version](https://img.shields.io/github/go-mod/go-version/yskttm/gh-activity)](go.mod)
 - [`dotfiles`](https://github.com/yskttm/dotfiles) — My dev environment
 
 
