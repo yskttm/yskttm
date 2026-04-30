@@ -25,6 +25,4 @@ Engineering Manager at Recruit, working on StudySapuri.
 - [`gh-activity`](https://github.com/yskttm/gh-activity) — GitHub CLI extension to aggregate Issue/PR activity
 - [`dotfiles`](https://github.com/yskttm/dotfiles) — My dev environment
 
----
 
-📍 Tokyo
