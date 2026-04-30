@@ -28,3 +28,6 @@ Engineering Manager at Recruit, working on StudySapuri.
 - [`dotfiles`](https://github.com/yskttm/dotfiles) — My dev environment
 
 
+## Media
+
+- [BS TV Tokyo — Career feature segment](https://youtu.be/BN54cTZUaVQ)
