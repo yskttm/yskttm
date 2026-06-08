@@ -14,7 +14,7 @@ Engineering Manager at Recruit, working on StudySapuri.
 
 ## Tech
 
-**Backend**: Ruby on Rails · Node.js · Express · GraphQL · PostgreSQL · Redis  
+**Backend**: Ruby on Rails · Node.js · Express · Go · GraphQL · PostgreSQL · Redis  
 **Frontend**: React · Next.js · Vite · TypeScript  
 **Infra**: AWS · GCP · Kubernetes · Terraform · GitHub Actions · Argo Workflows  
 **Observability**: Datadog · Sentry · New Relic  
