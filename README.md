@@ -6,7 +6,8 @@ Engineering Manager at Recruit, working on StudySapuri.
 
 - 12+ years in web development — Kakaku.com (Tabelog) → Recruit (StudySapuri)
 - Engineering Manager overseeing 3 teams, up to 15 engineers
-- Led StudySapuri's largest 0→1 product launch: 5 microservices, 15-person team, 3 years
+- Led StudySapuri's largest 0→1 product launch: 5 microservices, 3 years
+- Enhancement, maintenance and operation of large-scale services
 - Grew engineers from within: promoted 1 tech lead and 3 managers
 - Long tenure as playing manager — hands-on in architecture, code review, and delivery alongside team building
 - Cross-functional executor across legal, CS, marketing, and PdM
