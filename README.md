@@ -1,10 +1,10 @@
 # yskttm
 
-Engineering Manager at Recruit, working on StudySapuri.
+Eengineer at mybest
 
 ## About
 
-- 12+ years in web development — Kakaku.com ([Tabelog](https://tabelog.com/)) → Recruit ([StudySapuri](https://studysapuri.jp/))
+- Web development — Kakaku.com ([Tabelog](https://tabelog.com/), 5years) → Recruit ([StudySapuri](https://studysapuri.jp/), 8years) → mybest([mybest](https://my-best.com/))
 - Engineering Manager overseeing 3 teams, up to 15 engineers
 - Led StudySapuri's largest 0→1 product launch: 5 microservices, 3 years
 - Enhancement, maintenance and operation of large-scale services
