@@ -1,6 +1,6 @@
 # yskttm
 
-Eengineer at mybest
+Software Engineer
 
 ## About
 
