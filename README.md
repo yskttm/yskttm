@@ -4,13 +4,21 @@ Software Engineer
 
 ## About
 
-- Web development — Kakaku.com ([Tabelog](https://tabelog.com/), 5years) → Recruit ([StudySapuri](https://studysapuri.jp/), 8years) → mybest([mybest](https://my-best.com/))
-- Engineering Manager overseeing 3 teams, up to 15 engineers
+Web development — Kakaku.com ([Tabelog](https://tabelog.com/), 5 years) → Recruit ([StudySapuri](https://studysapuri.jp/), 8 years) → mybest ([mybest](https://my-best.com/))
+
+### Engineering Manager (6 years)
+
+- Overseeing 3 teams, up to 15 engineers
 - Led StudySapuri's largest 0→1 product launch: 5 microservices, 3 years
-- Enhancement, maintenance and operation of large-scale services
 - Grew engineers from within: promoted 1 tech lead and 3 managers
-- Long tenure as playing manager — hands-on in architecture, code review, and delivery alongside team building
 - Cross-functional executor across legal, CS, marketing, and PdM
+- Playing manager throughout — about 50% hands-on in architecture, code review, and delivery alongside team building
+
+### Software Engineer (10 years)
+
+- Full-stack web development, mainly Ruby on Rails, Node.js, Next.js, and React
+- Enhancement, maintenance and operation of large-scale services
+- Kept shipping production code during the EM years, not only before them
 
 ## Tech
 
